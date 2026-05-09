@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-04-25T16:18:40.415825",
+  "samples": 86,
+  "features": 18,
+  "metrics": {
+    "random_forest": {
+      "train_r2": 0.8726941060448218,
+      "test_r2": 0.8380911367975163,
+      "mae": 5.48861129151685
+    },
+    "gradient_boosting": {
+      "train_r2": 0.9990108929711531,
+      "test_r2": 0.8237818636730215,
+      "mae": 5.639228760610596
+    },
+    "ensemble_mae": 5.435922205404956,
+    "isolation_forest_anomaly_rate": 27.77777777777778,
+    "samples": 86
+  },
+  "model_types": [
+    "RandomForest",
+    "GradientBoosting",
+    "IsolationForest"
+  ]
+}

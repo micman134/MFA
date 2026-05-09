@@ -1,0 +1,20 @@
+{
+  "Hour": 0.0557720699389922,
+  "Minute": 0.10386056029130744,
+  "DayOfWeek": 0.10805030854638185,
+  "IsWeekend": 0.004077136017839197,
+  "BusinessHours": 0.011026080238899913,
+  "FailedAttempts": 0.49636909502132004,
+  "HasDevice": 0.06546980502655145,
+  "Browser": 0.0,
+  "OS": 0.0,
+  "DeviceType": 0.054921285510311814,
+  "HasCountry": 0.018336235665601334,
+  "LocationMismatch": 0.0,
+  "KnownDevice": 0.06777025764118816,
+  "KnownLocation": 0.002566483267885622,
+  "TimeAnomaly": 0.010600277098281118,
+  "Velocity": 0.0,
+  "Cookies": 0.0011804057354397595,
+  "JavaScript": 0.0
+}
